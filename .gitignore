@@ -105,3 +105,6 @@ dist
 
 #Linux swp file
 .swp
+
+#VS code settings
+.vscode/
